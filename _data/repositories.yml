@@ -1,6 +1,3 @@
-github_users:
-  - mckzmyers
-
 repo_description_lines_max: 2
 
 github_repos:
@@ -9,3 +6,12 @@ github_repos:
   - pynucastro/pynucastro
   - astropy/astropy
   - pola-rs/polars
+  - jax-ml/jax
+
+github_users:
+  - mckzmyers
+  - jpkneller
+  - mathren
+  - Debraheem
+  - JostMigenda
+  - rjfarmer

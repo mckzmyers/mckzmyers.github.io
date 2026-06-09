@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: useful repos, some of which I have contributed to
+description: people doing cool stuff and useful repos, some of which I have contributed to
 nav: true
 nav_order: 4
 ---
