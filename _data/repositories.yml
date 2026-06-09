@@ -7,3 +7,5 @@ github_repos:
   - MESAHub/mesa
   - SNEWS2/snewpy
   - pynucastro/pynucastro
+  - astropy/astropy
+  - pola-rs/polars
