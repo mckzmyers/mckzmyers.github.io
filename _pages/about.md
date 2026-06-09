@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>400D Riddick Hall</p>
     <p>2401 Stinson Drive</p>
-    <p>Raleigh, NC 27607</p>
+    <p>Raleigh, NC 27695</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,4 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD student at North Carolina State University and currently on the job market. My primary research interests are stellar evolution, massive stars, core-collapse supernovae, and astrophysical neutrinos. My work is computational and theoretical, with emphasis on understanding how late-stage stellar evolution and nucleosynthesis can be constrained through multimessenger signals. I teach astronomy labs at NC State and am adjunct faculty at Wake Technical Community College.
+I am a PhD student at North Carolina State University and currently on the job market. My primary research interests are stellar evolution, massive stars, core-collapse supernovae, and astrophysical neutrinos. My work is computational and theoretical, with emphasis on understanding how late-stage stellar evolution and nucleosynthesis can be constrained through multimessenger signals. I am a teaching assistant at NC State and adjunct faculty at Wake Technical Community College. Outside of my research and teaching, I enjoy playing saxophone and live jazz.
