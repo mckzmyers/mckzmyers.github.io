@@ -3,10 +3,12 @@ repo_description_lines_max: 2
 github_repos:
   - MESAHub/mesa
   - SNEWS2/snewpy
+  - wmwolf/py_mesa_reader
+  - rjfarmer/mesaplot
   - pynucastro/pynucastro
   - astropy/astropy
-  - pola-rs/polars
-  - jax-ml/jax
+  # - pola-rs/polars
+  # - jax-ml/jax
 
 github_users:
   - mckzmyers
