@@ -4,15 +4,15 @@ cv:
   email: mamyers4@ncsu.edu
   location: Raleigh, NC
   image: ""
-  summary: Early career researcher interested in stellar evolution, massive stars, core-collapse supernovae, and astrophysical neutrinos
+  summary: Early career researcher working on stellar evolution, massive stars, core-collapse supernovae, and astrophysical neutrinos
 
-  social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: mckzmyers
-    - network: LinkedIn
-      username: example
+  # social_networks:
+  #   - network: X
+  #     username: 
+  #   - network: GitHub
+  #     username: 
+  #   - network: LinkedIn
+  #     username: 
 
   address:
     street: 411D Riddick Hall, 2401 Stinson Drive
@@ -132,18 +132,30 @@ cv:
         url: https://joss.theoj.org/papers/10.21105/joss.03772
         summary: SNEWPY offers a unified interface for hundreds of supernova simulations, a large library of flux transformations on the way towards the detector, and an interface to SNOwGLoBES, allowing users to easily calculate and compare expected event rates from many supernova models in many different neutrino detectors.
 
-    Selected Talks:
-      - title: Test
-      url: test.com
+    # Selected Talks:
+    #   - name: Test Talk
+    #     date: 2026-06-08 # Add a date; many templates break without one
+    #     details: test
 
-    Students Mentored:
-      position: Claire B. Campbell
-      date:
-      start_date: 2024
-      end_date: present
+    # Students Mentored:
+    #   - title: Claire B. Campbell # Changed 'position' to 'name' based on common schema
+    #     start_date: 2024
+    #     end_date: present
+    #     date: 2024
+    #     summary: "test"
 
-    Service and Outreach:
-      - title: 
+    # Service and Outreach:
+    #   - name: "Name of the activity" # Needs an actual string
+    #     description: "A short description of what you did"
+    #     date: 2025
+    #     summary: ''
 
-    References:
-      
+    # Test:
+    #   - start_date: 2024
+    #   - end_date: present
+      # contents:
+      # - name: Professor Name
+      #   value: McKenzie Myers
+      #   description: "Department, University"
+      #   date: 2024
+      #   summary: ""
