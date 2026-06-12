@@ -1,8 +1,8 @@
-<!-- ---
+---
 layout: page
 permalink: /repositories/
 title: repositories
-description: people doing cool stuff and useful repos, some of which I have contributed to
+description: useful repos, some of which I have contributed to
 nav: true
 nav_order: 4
 ---
@@ -44,4 +44,4 @@ nav_order: 4
     {% include repository/repo.liquid repository=repo %}
   {% endfor %}
 </div>
-{% endif %} -->
+{% endif %}

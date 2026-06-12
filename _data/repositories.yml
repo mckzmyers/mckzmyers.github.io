@@ -4,16 +4,16 @@ github_repos:
   - MESAHub/mesa
   - SNEWS2/snewpy
   - wmwolf/py_mesa_reader
-  - rjfarmer/mesaplot
+  - mckzmyers/mesaplot
   - pynucastro/pynucastro
   - astropy/astropy
-  # - pola-rs/polars
-  # - jax-ml/jax
+  - pola-rs/polars
+  - jax-ml/jax
 
-github_users:
-  - mckzmyers
-  - jpkneller
-  - mathren
-  - Debraheem
-  - JostMigenda
-  - rjfarmer
+# github_users:
+#   - mckzmyers
+#   - jpkneller
+#   - mathren
+#   - Debraheem
+#   - JostMigenda
+#   - rjfarmer
